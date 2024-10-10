@@ -1,0 +1,27 @@
+# Backend specific ignores
+
+# Ignorar o arquivo package-lock.json do backend
+backend/package-lock.json
+
+# Ignorar a pasta node_modules do backend
+backend/node_modules/
+
+# Ignorar a pasta dist do backend
+backend/dist/
+
+# Ignorar a pasta public do backend
+backend/public/
+
+# Ignorar o arquivo .env do backend
+backend/.env
+
+# Frontend specific ignores
+
+# Ignorar o arquivo package-lock.json do frontend
+frontend/package-lock.json
+
+# Ignorar a pasta node_modules do frontend
+frontend/node_modules/
+
+# Ignorar a pasta build do frontend
+frontend/build/
